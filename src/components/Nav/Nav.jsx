@@ -13,10 +13,10 @@ const Nav = () => {
                 <a
                     target="_blank"
                     className="nav-aam-link"
-                    href="http://theleanprogrammer.com/aam"
+                    href="https://linkedin.com/in/nitin-pasoriah"
                     rel="noreferrer"
                 >
-                    AAM
+                    LinkedIn
                 </a>
             </div>
         </div>

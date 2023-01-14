@@ -5,12 +5,12 @@ const Footer = () => {
     return (
         <div className="footer-container">
             <a
-                href="https://theleanprogrammer.com/aam"
+                href="https://github.com/NitinPasoriah"
                 className="footer-link"
                 target="_blank"
                 rel="noreferrer"
             >
-                Watch the full react course now!
+                Github
             </a>
         </div>
     );
